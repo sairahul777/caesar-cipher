@@ -32,7 +32,7 @@ The **Caesar Cipher** is one of the oldest known encryption techniques. It works
 ---
 
 ## 📷 Sample Output
-<prev>
+<pre>
 
  .o88b.  .d8b.  d88888b .d8888.  .d8b.  d8888b. 
 d8P  Y8 d8' `8b 88'     88'  YP d8' `8b 88  `8D 
@@ -58,7 +58,7 @@ enter shift number:
 here is encoded result: mjqqt
 enter 'yes' if u want to go again. or else type 'no'. 
 
-</prev>
+</pre>
 
 
 
