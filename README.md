@@ -72,21 +72,24 @@ caesar(original_text="hello", shift_amount=3, encode_or_decode="encode")
 
 
 🛠️ Technologies Used
+
 Python 3
 
 ASCII Art for logo
 
 Basic control flow and string manipulation
 
-
+---
 
 📁 File Structure
 
 caesar_cipher.py   # Main Python script with Caesar Cipher logic
 README.md          # Project documentation
 
+---
 
 ✅ Features
+
 - Encrypt and decrypt text
 
 - Handles spaces and punctuation correctly
