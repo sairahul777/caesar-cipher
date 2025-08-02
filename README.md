@@ -66,7 +66,6 @@ enter 'yes' if u want to go again. or else type 'no'.
 
 ## 💡 Example
 
-```python
 caesar(original_text="hello", shift_amount=3, encode_or_decode="encode")
 # Output: khoor
 
@@ -88,13 +87,13 @@ README.md          # Project documentation
 
 
 ✅ Features
-Encrypt and decrypt text
+- Encrypt and decrypt text
 
-Handles spaces and punctuation correctly
+- Handles spaces and punctuation correctly
 
-Loop for continuous use
+- Loop for continuous use
 
-User-friendly prompts
+- User-friendly prompts
 
 
 
