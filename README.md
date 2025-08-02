@@ -64,13 +64,6 @@ enter 'yes' if u want to go again. or else type 'no'.
 
 ---
 
-## 💡 Example
-
-caesar(original_text="hello", shift_amount=3, encode_or_decode="encode")
-Output: khoor
-
-
-
 🛠️ Technologies Used
 
 - Python 3
